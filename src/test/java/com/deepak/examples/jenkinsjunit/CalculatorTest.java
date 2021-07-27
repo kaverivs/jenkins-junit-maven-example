@@ -40,7 +40,7 @@ public class CalculatorTest {
 	
 	
 	@Test
-	public void testSum() {
+	public void testSum1() {
 		int result = calculator.sum(3, 4);
 
 		assertEquals(8, result);
